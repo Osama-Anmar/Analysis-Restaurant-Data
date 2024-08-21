@@ -10,8 +10,8 @@ The goal of this project is to analyze restaurant sales data to identify key ins
 # Usage
 ```bash
 git clone https://github.com/Osama-Anmar/Analysis-Restaurant-Data.git
-pip install -r requirements.txt
 cd Analysis-Restaurant-Data
+pip install -r requirements.txt
 jupyter notebook "Restaurant Sales.ipynb"
 ```
 # Contributing
